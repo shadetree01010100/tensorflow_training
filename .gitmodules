@@ -33,7 +33,7 @@
 	url = git://github.com/nio-blocks/join.git
 [submodule "blocks/tensor_flow"]
 	path = blocks/tensor_flow
-	url = https://github.com/nio-blocks/tensor_flow.git
+	url = git://github.com/nio-blocks/tensor_flow.git
 [submodule "blocks/video"]
 	path = blocks/video
-	url = git@github.com:nio-blocks/video.git
+	url = git://github.com/nio-blocks/video.git
