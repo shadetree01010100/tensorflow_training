@@ -76,3 +76,5 @@ nio.err
 nio.conf
 data/
 tensorboard/
+tf_models/
+etc/api_key.cfg
