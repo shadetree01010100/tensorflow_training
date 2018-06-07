@@ -37,3 +37,6 @@
 [submodule "blocks/video"]
 	path = blocks/video
 	url = git://github.com/nio-blocks/video.git
+[submodule "blocks\\array_ops"]
+	path = blocks\\array_ops
+	url = git://github.com/tyoungNIO/array_ops.git
