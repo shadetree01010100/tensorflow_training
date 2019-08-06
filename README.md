@@ -6,7 +6,7 @@ Learning reasources for the application and development of machine learning and 
 
 Clone this project template using the nio command line interface (CLI).
 
-`nio new <new_project_name> -t https://github.com/tyoungNIO/tensorflow_training.git --no-ssl`
+`nio new <new_project_name> -t https://github.com/shadetree01010100/tensorflow_training.git --no-ssl`
   
 ## Pre-Configured Services
 
